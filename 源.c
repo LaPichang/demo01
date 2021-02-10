@@ -18,6 +18,7 @@ int main()
 {
 	int a = 027;//八进制换算=十进制中7*1+2*8
 	printf("%d\n", a);
+	hhh
 	int b = 0X65;//十六进制换算=十进制5*1+6*16
 	printf("%d\n", b);
 }
